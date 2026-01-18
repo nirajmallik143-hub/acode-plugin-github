@@ -1,0 +1,27 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "dikidjatar.plugin.github",
+  "name": "GitHub",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "repository": "https://github.com/dikidjatar/acode-plugin-github.git",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "license": "MIT",
+  "changelogs": "changelogs.md",
+  "keywords": [
+    "GitHub",
+    "Git"
+  ],
+  "dependencies": [
+    "acode.plugin.version.control.gitpro"
+  ],
+  "price": 0,
+  "author": {
+    "name": "Diki Djatar",
+    "email": "dikidjatar@gmail.com",
+    "github": "dikidjatar"
+  }
+}

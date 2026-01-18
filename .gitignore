@@ -1,0 +1,11 @@
+/node_modules
+/.github
+/.vscode
+/tests
+
+dist/main.js
+dist.zip
+plugin.zip
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
