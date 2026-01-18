@@ -15,9 +15,6 @@
     "GitHub",
     "Git"
   ],
-  "dependencies": [
-    "acode.plugin.version.control.gitpro"
-  ],
   "price": 0,
   "author": {
     "name": "Diki Djatar",

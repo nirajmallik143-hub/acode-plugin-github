@@ -743,7 +743,7 @@ export function initializeGitHubPlugin(baseUrl: string, options: Acode.PluginIni
         } else if (Date.now() - startTime < 10000) {
           setTimeout(pollGitPlugin, 500);
         } else {
-          console.warn('[GitHub] plugin did not load within 10 seconds');
+          console.warn('Git plugin did not load within 10 seconds');
         }
       };
 
